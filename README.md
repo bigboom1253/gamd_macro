@@ -1,0 +1,1 @@
+# gamd_macro
